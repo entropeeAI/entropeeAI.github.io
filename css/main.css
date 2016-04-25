@@ -231,7 +231,6 @@ pre {
 
 .footer-col {
   float: left;
-  margin-bottom: 15px;
   padding-left: 15px; }
 
 .footer-col-1 {
@@ -484,5 +483,5 @@ pre {
 
 .copyright {
   text-align: center;
-  font-size: 14px;
+  font-size: 13px;
   color: gray; }

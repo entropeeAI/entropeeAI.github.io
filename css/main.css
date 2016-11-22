@@ -481,10 +481,10 @@ pre {
 
 .boxed {
   margin: 15px auto 15px auto;
-  width: 80%;
-  text-align: center;
+  width: 100%;
+  text-align: left;
   display: block;
-  background-color: #FFEF36;
+  background-color: #ECECEC;
   border-radius: 5px;
   padding: 10px;
   box-shadow: 5px 5px 5px #888888; }

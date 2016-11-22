@@ -480,8 +480,8 @@ pre {
     color: #099; }
 
 .boxed {
-  margin: 15px auto 15px auto;
-  width: 100%;
+  margin: 15px auto 15px 0px;
+  width: 95%;
   text-align: left;
   display: block;
   background-color: #ECECEC;
